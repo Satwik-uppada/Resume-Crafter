@@ -228,8 +228,8 @@ def main():
             st.warning("Please provide both resume and job description.")
 
     # Clear Button
-    if st.button("🔄 Clear All"):
-        st.experimental_rerun()
+    # if st.button("🔄 Clear All"):
+    #     st.experimental_rerun()
 
 if __name__ == "__main__":
     main()
