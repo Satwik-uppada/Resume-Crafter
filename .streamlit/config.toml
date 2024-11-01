@@ -276,15 +276,15 @@ primaryColor = "#00F0FF"
 
 # Background color for the main content area.
 # The value below was set in C:\Users\uppada satwik\Downloads\The world of Data Science\Streamlit\AUTO ML  APP\.streamlit\config.toml
-# backgroundColor = "#a4b6c4"
+backgroundColor = "#0E1117"
 
 # Background color used for the sidebar and most interactive widgets.
 # The value below was set in C:\Users\uppada satwik\Downloads\The world of Data Science\Streamlit\AUTO ML  APP\.streamlit\config.toml
-# secondaryBackgroundColor = "#4a6382"
+secondaryBackgroundColor = "#262730"
 
 # Color used for almost all text.
 # The value below was set in C:\Users\uppada satwik\Downloads\The world of Data Science\Streamlit\AUTO ML  APP\.streamlit\config.toml
-# textColor = "#121111"
+textColor = "#FAFAFA"
 
 # Font family for all text in the app, except code blocks. One of "sans serif",
 # "serif", or "monospace".
