@@ -10,7 +10,7 @@ load_dotenv()
 
 # Page configuration
 st.set_page_config(
-    page_title="AI Resume Optimizer",
+    page_title="AI Resume Crafter",
     page_icon="🚀",
     layout="wide"
 )
@@ -165,19 +165,19 @@ def generate_resume(resume, job_description):
     return completion.choices[0].message.content
 
 def main():
-    st.title("🚀 AI Resume Optimizer")
+    st.title("🚀 Revamp 360")
     st.subheader("Craft Your Perfect Resume with AI")
 
     # Input sections
     col1, col2 = st.columns(2)
 
     with col1:
-        st.markdown("### Upload Your Current Resume")
+        st.markdown("#### Upload Your Current Resume")
         resume_file = st.file_uploader("Choose Resume File", type=['txt'])
         resume_text = st.text_area("Or Paste Resume", height=200)
 
     with col2:
-        st.markdown("### Job Description")
+        st.markdown("#### Job Description")
         job_description_file = st.file_uploader("Choose Job Description File", type=['txt'])
         job_description_text = st.text_area("Or Paste Job Description", height=200)
 
