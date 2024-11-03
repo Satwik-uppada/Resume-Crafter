@@ -24,6 +24,10 @@ Welcome to the **Revamp 360**, an AI-driven application that helps you optimize 
 
 Check out the **AI Resume Crafter** in action! Featuring a **3D rotating cube** and **neon-themed** UI, the demo showcases how users can upload resumes, enter job descriptions, and receive optimized versions quickly.
 
+![image](https://github.com/user-attachments/assets/dcfac7b8-4d53-4a91-819b-5a816af0eda4)
+
+
+
 ---
 
 ## Features
@@ -40,8 +44,8 @@ Check out the **AI Resume Crafter** in action! Featuring a **3D rotating cube** 
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/Satwik-uppada/AI-Resume-Crafter.git
-    cd AI-Resume-Crafter
+    git clone https://github.com/Satwik-uppada/Resume-Crafter.git
+    cd Resume-Crafter
     ```
 
 2. **Set Up Environment**:
